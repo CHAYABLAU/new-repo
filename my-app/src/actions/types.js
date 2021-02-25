@@ -1,0 +1,14 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+
+export const LOAD_POSTS ="LOAD_POSTS"
+export const DELETE_POST ="DELETE_POST"
+export const GET_ALL_POSTS_STORE ="GET_ALL_POSTS_STORE"
+export const CREATE_POST ="CREATE_POST"
+export const EDIT_POST ="EDIT_POST"
